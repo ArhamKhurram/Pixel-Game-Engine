@@ -1,0 +1,21 @@
+Player {
+	int x, y;
+
+	public:
+	void move ();
+
+}
+
+Camera : Player {
+	int x, y;
+	int hov;
+
+	Camera Constructor has x(_x) and y(_y) { };
+
+	Public: 
+	void fov_calculation ();
+}
+
+
+--------------------------
+

@@ -1,0 +1,10 @@
+# ninja log v5
+15	580	7367143512564199	CMakeFiles/Too_2riyal.dir/src/imgui_draw.cpp.obj	f6a96167a779b641
+26	429	7367143511056118	CMakeFiles/Too_2riyal.dir/src/imgui_impl_sdlrenderer2.cpp.obj	e20dc74461d03013
+2	927	7367298912518231	CMakeFiles/Too_2riyal.dir/src/main.cpp.obj	57b70bec1dacbfd3
+40	698	7367143513752823	CMakeFiles/Too_2riyal.dir/src/imgui_widgets.cpp.obj	dd439a9524f705
+33	475	7367143511534202	CMakeFiles/Too_2riyal.dir/src/imgui_tables.cpp.obj	b718b734e6225243
+20	687	7367143513640310	CMakeFiles/Too_2riyal.dir/src/imgui_impl_sdl2.cpp.obj	26135724764be77c
+9	486	7367143511615388	CMakeFiles/Too_2riyal.dir/src/imgui_demo.cpp.obj	8a214bd1e8cbf214
+3	1023	7367143516983415	CMakeFiles/Too_2riyal.dir/src/imgui.cpp.obj	2b43eb3182cba1a1
+927	1411	7367298915848238	Too_2riyal.exe	5808b59bc23b7b8b

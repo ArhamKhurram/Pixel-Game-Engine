@@ -1,0 +1,3 @@
+D:/Arham/Too 2riyal/out/build/x64-debug/CMakeFiles/Too_2riyal.dir
+D:/Arham/Too 2riyal/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/Arham/Too 2riyal/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
